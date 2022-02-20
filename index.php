@@ -2,7 +2,7 @@
 <html>
   <head>
       <title>My Home Page</title
-  </head>
+        </head>
   <body>
   <h1>Welcome to my Websit! I am Clarence Portuguez!</h1>
   <ul>
@@ -10,4 +10,4 @@
     <li><a href="/LT2/index.html">LEARNING TASK 2</a></li>
   </ul>
   </body>
-</html>
+        </html>
