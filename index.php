@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <title>My Home Page</title
+    <title>My Home Page</title>
         </head>
   <body>
   <h1>Welcome to my Websit! I am Clarence Portuguez!</h1>
