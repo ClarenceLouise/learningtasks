@@ -10,7 +10,7 @@
     <li><a href="/LT2/index.html">LEARNING TASK 2</a></li>
     <li><a href="/LT3/Top 10.html">LEARNING TASK 3</a></li>
     <li><a href="/CLE1MT/Index.html">Midterm Exam</a></li>
-    <li><a href="/LT4/index.html">Learning Task 4</a></li>
+    <li><a href="/LT4/index.html">LEARNING TASK 4</a></li>
   </ul>
   </body>
         </html>
