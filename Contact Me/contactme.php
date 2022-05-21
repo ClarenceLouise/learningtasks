@@ -24,8 +24,6 @@
     <p>By Confirming you agree to our Terms & Privacy</a>.</p>
 
     <button type="submit" class="registerbtn">Submit</button>
-    <a href="https://www.facebook.com/clarencelouise/" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
   </div>
   
   
