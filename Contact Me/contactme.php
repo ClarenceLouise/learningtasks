@@ -8,7 +8,7 @@
 
 <form action="index.php">
   <div class="container fade">
-    <h1>Send Me Message</h1>
+    <h1>Send Me A Message</h1>
     <p>Please fill in this form in order to contact me.</p>
     <hr>
 
