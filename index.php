@@ -1,17 +1,22 @@
+<?php $page = (isset($_GET ['page']) && $_GET['page'] !='') ? $_GET['page'] : '';?>
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>My Home Page</title>
-        </head>
-  <body>
-  <h1>Welcome to my Website! I am Clarence Portuguez!</h1>
-  <ul>
-    <li><a href="index.php">HOME</a></li>
-    <li><a href="/LT2/index.html">LEARNING TASK 2</a></li>
-    <li><a href="/LT3/Top 10.html">LEARNING TASK 3</a></li>
-    <li><a href="/CLE1MT/Index.html">Midterm Exam</a></li>
-    <li><a href="/LT4/index.html">LEARNING TASK 4</a></li>
-    <li><a href="/LT5/index.html">LEARNING TASK 5</a></li>
-  </ul>
-  </body>
-        </html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Home Page</title>
+        <style>
+        <?php include 'css/style.css'; ?>
+        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script><?php include 'script.js'; ?></script>
+        
+    </head>
+        <header>   
+        <?php include "navigation.php"?>
+
+        
+        </header>
+        <body></body>
+        
+</html>
+            
